@@ -138,4 +138,46 @@ form button{
 
 form button:hover{
   background-color: #a651cd;
+
 }
+
+
+.alamat {
+ margin-bottom: 20px;
+  padding: 15px;
+ background: #c4a7ec;
+border-left: 5px solid #c9a5f8;
+ }
+ .alamat p {
+     margin: 5px 0;
+      }
+ form {
+ display: flex;
+ flex-direction: column;
+ }
+
+
+
+  .container {
+            width: 90%;
+            max-width: 1000px;
+            margin: 30px auto;
+        }
+        .event-card {
+            background: rgb(218, 181, 248);
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+
+         .event-card h2 {
+            margin-top: 0;
+            color: #333;
+        }
+        .event-date {
+            color: #750c0c;
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
